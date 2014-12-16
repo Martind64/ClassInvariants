@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\Projekter\ClassInvariants\ClassInvariants\bin\Debug\ClassInvariants.exe.config
+C:\Users\Martin\Documents\Projekter\ClassInvariants\ClassInvariants\bin\Debug\ClassInvariants.exe
+C:\Users\Martin\Documents\Projekter\ClassInvariants\ClassInvariants\bin\Debug\ClassInvariants.pdb
+C:\Users\Martin\Documents\Projekter\ClassInvariants\ClassInvariants\obj\Debug\ClassInvariants.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Projekter\ClassInvariants\ClassInvariants\obj\Debug\ClassInvariants.rewritten
+C:\Users\Martin\Documents\Projekter\ClassInvariants\ClassInvariants\obj\Debug\ClassInvariants.exe
+C:\Users\Martin\Documents\Projekter\ClassInvariants\ClassInvariants\obj\Debug\ClassInvariants.pdb
